@@ -4,7 +4,7 @@
 -->
 
 # **Anderson N. Barbosa**  
-👨‍🔬 *Postdoctoral researcher (INPA)*
+👨‍💻 *Postdoctoral researcher (INPA)*  
 👨‍🔬 *PhD in Biochemistry and Molecular Biology (UEA/2019)*  
 👨🏻‍🎓 *Bachelor of Biotechnology (UFAM/2015)*  
 
